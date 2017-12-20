@@ -1,3 +1,7 @@
+# Abandoned
+
+**This project is no longer maintained in favor to npm based distribution of [OpenLayers as es2015 modules](https://www.npmjs.com/package/ol)**
+
 ## Openlayers Compiler
 
 Docker image for compiling custom build of [Openlayers library](https://github.com/openlayers/openlayers).
